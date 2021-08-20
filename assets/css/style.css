@@ -439,6 +439,7 @@ h3 {
   line-height: 200%;
   list-style-type: disc;
   margin-left: 24px;
+  margin-right: 24px;
 }
 
 .card ul li li {
@@ -503,7 +504,7 @@ a.hoverline:hover {
 
 #experience .card-content .row {
   border-bottom: 1px solid #ddd;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .card.large .card-image {
