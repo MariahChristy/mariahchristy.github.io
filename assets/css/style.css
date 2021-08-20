@@ -187,7 +187,7 @@ nav {
 } */
 
 nav i {
-  padding: 0 15px;
+  padding: 0 20px;
   position: relative;
   top: 5px;
 }
@@ -220,7 +220,7 @@ dt {
 }
 
 ul.side-nav {
-  width: 190px;
+  width: 200px;
 }
 
 ul.side-nav li {
