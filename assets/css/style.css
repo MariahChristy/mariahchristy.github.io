@@ -291,7 +291,7 @@ li.logo span {
 }
 
 .container {
-  width: 95%;
+  width: 85%;
 }
 
 h3 {
@@ -515,7 +515,7 @@ a.hoverline:hover {
 }
 
 .card.medium .card-image {
-  height: 150px;
+  height: auto;
   text-align:center;
 }
 
