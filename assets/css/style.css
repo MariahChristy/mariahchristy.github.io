@@ -427,7 +427,7 @@ h3 {
 }
 
 .card-action span {
-  font-size: 85%;
+  font-size: 75%;
   color: #666;
 }
 
@@ -507,7 +507,7 @@ a.hoverline:hover {
 }
 
 .card.large .card-image {
-  height: 230px;
+  height: 200px;
 }
 
 .card.large .card-content {
@@ -515,7 +515,7 @@ a.hoverline:hover {
 }
 
 .card.medium .card-image {
-  height: 240px;
+  height: 200px;
   text-align:center;
 }
 
