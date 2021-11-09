@@ -371,7 +371,7 @@ h3 {
 }
 
 .card {
-  margin-bottom: 30px;
+  margin-bottom: 3px;
 }
 
 .card .role {
@@ -393,7 +393,7 @@ h3 {
 }
 
 .card .card-content {
-  padding-bottom: 30px;
+  padding-bottom: 5px;
 }
 
 .card .card-content p {
